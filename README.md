@@ -3,7 +3,7 @@ This is a basic house price predictor app that is built on Linear Regression. Th
 ## The project has following architecture:
 /house-price-predictor
 │
-├── app.py
+├── app.py <\n>
 ├── model.ipynb
 ├── house_prices.csv
 ├── house_price_model.pkl (generated after training)
